@@ -33,12 +33,12 @@ Um sistema completo desenvolvido em C++ para gerenciar informações de alunos e
 
 ### Compilação
 ```bash
-g++ -std=c++17 -o sistema_pessoas main.cpp
+g++ -std=c++17 -o sistema-gerenciamento-pessoas-cpp main.cpp
 ```
 
 ### Execução
 ```bash
-./sistema_pessoas
+./sistema-gerenciamento-pessoas-cpp
 ```
 
 ## 📖 Menu Principal
