@@ -1,5 +1,7 @@
 # 📚 Sistema de Gerenciamento de Pessoas
 
+[English Version Here](README_en.md)
+
 Um sistema completo desenvolvido em C++ para gerenciar informações de alunos e professores com interface de linha de comando, funcionalidades avançadas de pesquisa e persistência de dados.
 
 ## ✨ Funcionalidades
